@@ -1,1 +1,45 @@
-# Python-Journey
+# 🐍 Python Mastery Journey | 100 Days of Code
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 👋 Hello World!
+Main ek **First Year Computer Science student** hun aur main apni coding journey start kar rahi hun. Mera goal hai ki main agle 100 dino tak daily Python practice karun aur use yahan upload karun.
+
+### 📊 My Progress Tracker
+Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise asani se samajh sake.
+
+| Day | 📚 Topic Name | 🔗 Resource/File | status |
+| :--- | :--- | :--- | :--- |
+| **Day 01** | Python Setup & Git Workflow | [Day1.py](./Day1.py) | ✅ Done |
+| **Day 02** | Variables & Data Types | [Day2.py](./Day2.py) | ⏳ Processing |
+| **Day 03** | Basic Input/Output | TBD | 📅 Upcoming |
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Language:** Python 3.x
+- **Editor:** Visual Studio Code
+- **Version Control:** Git & GitHub
+- **Learning Platform:** [Mention your course/platform here]
+
+### 🎯 Weekly Goals
+- [ ] Understand Python Basics (Strings, Lists, Tuples)
+- [ ] Solve 5 Basic Problems daily on HackerRank/LeetCode
+- [ ] Build 1 Mini Project every weekend
+
+---
+
+### 📫 Connect with me
+Agar aapke paas mere liye koi suggestions hain, toh zaroor batayein!
+- **LinkedIn: https://www.linkedin.com/in/pratibha-agrawal-023005381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+<p align="center">
+  <i>"Consistency is the key to success."</i> ✨
+</p>
