@@ -26,7 +26,7 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 - **Language:** Python 3.x
 - **Editor:** Visual Studio Code
 - **Version Control:** Git & GitHub
-- **Learning Platform:** [Mention your course/platform here]
+- **Learning Platform:** YOUTUBE , HACKER RANK.
 
 ### 🎯 Weekly Goals
 - [ ] Understand Python Basics (Strings, Lists, Tuples)
