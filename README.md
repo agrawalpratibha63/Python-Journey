@@ -16,8 +16,8 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 
 | Day | 📚 Topic Name | 🔗 Resource/File | status |
 | :--- | :--- | :--- | :--- |
-| **Day 01** | Python Setup & Git Workflow | [Day1.py](./Day1.py) | ✅ Done |
-| **Day 02** | Variables & Data Types | [Day2.py](./Day2.py) | ⏳ Processing |
+| **Day 01** | Python Setup & Git Workflow | [Day1.py](./Day1.py) | ✔ Done |
+| **Day 02** | Variables & Data Types | [Day2.py](./Day2.py) |✔ Done |
 | **Day 03** | Basic Input/Output | TBD | 📅 Upcoming |
 
 ---
