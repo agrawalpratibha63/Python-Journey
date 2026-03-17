@@ -21,6 +21,7 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 | **Day 03** | Basic Questions Practice | [Day3.py](./Day3.py) |✔Done |
 | **Day 04** | Conditional statements-if/elif/else and loops | [Day4.py](./Day4.py) |✔Done |
 | **Day 05** | For loops  Practice | [Day5.py](./Day5.py) |✔Done |
+| **Day 06** | Pattern  Practice | [Day6.py](./Day6.py) |✔Done |
 
 ### 🛠️ Tech Stack & Tools
 - **Language:** Python 3.x
