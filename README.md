@@ -23,6 +23,7 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 | **Day 05** | For loops  Practice | [Day5.py](./Day5.py) |✔Done |
 | **Day 06** | Pattern  Practice | [Day6.py](./Day6.py) |✔Done |
 |**Day 07** | Pattern  Practice | [Day7.py](./Day7.py) |✔Done |
+|**Day 08** | String  Practice | [Day8.py](./Day8.py) |✔Done |
 
 
 ### 🛠️ Tech Stack & Tools
