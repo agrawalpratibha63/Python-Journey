@@ -27,6 +27,8 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 |**Day 09** | String  Practice | [Day9.py](./Day9.py) |✔Done |
 |**Day 10** | Question Practice | [Day10.py](./Day10.py) |✔Done |
 |**Day 11** | Question Practice | [Day11.py](./Day11.py) |✔Done |
+|**Day 12** | Question Practice | [Day12.py](./Day12.py) |✔Done |
+
 
 
 ### 🛠️ Tech Stack & Tools
@@ -36,8 +38,8 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 - **Learning Platform:** YOUTUBE , HACKER RANK.
 
 ### 🎯 Weekly Goals
-- [ ] Understand Python Basics (Strings, Lists, Tuples)
-- [ ] Solve 5 Basic Problems daily on HackerRank/LeetCode
+- [ ✔] Understand Python Basics (Strings, Lists, Tuples)
+- [ ✔] Solve 5 Basic Problems daily on HackerRank/LeetCode
 - [ ] Build 1 Mini Project every weekend
 
 ---
