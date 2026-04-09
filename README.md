@@ -29,6 +29,7 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 |**Day 11** | Question Practice | [Day11.py](./Day11.py) |✔Done |
 |**Day 12** | Question Practice | [Day12.py](./Day12.py) |✔Done |
 |**Day 13** | Question Practice | [Day13.py](./Day13.py) |✔Done |
+|**Day 14** | Question Practice | [Day14.py](./Day14.py) |✔Done |
 
 
 
