@@ -38,6 +38,7 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 | **Day 17** | Question Practice | [Day17.py](./Day17.py) | ✔ Done |
 | **Day 18** | Question Practice | [Day18.py](./Day18.py) | ✔ Done |
 | **Day 19** | Question Practice | [Day19.py](./Day19.py) | ✔ Done |
+| **Day 20** | Question Practice | [Day20.py](./Day20.py) | ✔ Done |
 
 ### 🛠️ Tech Stack & Tools
 - **Language:** Python 3.x
