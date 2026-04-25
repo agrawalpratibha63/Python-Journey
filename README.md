@@ -62,7 +62,7 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 ### 🎯 Weekly Goals
 - [✔] Understand Python Basics (Strings, Lists, Tuples)
 - [✔] Solve 5 Basic Problems daily on HackerRank/LeetCode
-- [ ] Build 1 Mini Project every weekend
+- [✔] Build 1 Mini Project every weekend
 
 ---
 
