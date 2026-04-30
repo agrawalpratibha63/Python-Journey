@@ -53,6 +53,7 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 | **Day 32** | Question Practice | [Day32.py](./Day32.py) | ✔ Done |
 | **Day 33** | Question Practice | [Day33.py](./Day33.py) | ✔ Done |
 | **Day 34** | Question Practice | [Day34.py](./Day34.py) | ✔ Done |
+| **Day 35** | Question Practice | [Day35.py](./Day35.py) | ✔ Done |
 
 
 
