@@ -64,6 +64,9 @@ Maine har din ki practice ko alag files mein divide kiya hai taaki koi bhi ise a
 | **Day 43** | Question Practice | [Day43.py](./Day43.py) | ✔ Done |
 | **Day 44** | Question Practice | [Day44.py](./Day44.py) | ✔ Done |
 | **Day 45** | Question Practice | [Day45.py](./Day45.py) | ✔ Done |
+| **Day 46** | Question Practice | [Day46.py](./Day46.py) | ✔ Done |
+
+
 
 
 
