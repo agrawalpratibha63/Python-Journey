@@ -3,7 +3,7 @@
 #############################################################################
 
 #Question  Split Strings by Separator
-words=eval(input("enter list pf strings:"))
+words=eval(input("enter list of strings:"))
 separator=input("enter separator")
 lis=[]
 for word in words:
